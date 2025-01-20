@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Information about me:
+I'm a novice developer on Github. You can view information about me here:
 
 - 🔭 I’m currently working on: improving your skills
 - 🌱 I’m currently learning: Python, CSS/Html
