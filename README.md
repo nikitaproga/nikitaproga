@@ -9,4 +9,4 @@ I'm a novice developer on Github. You can view information about me here:
 - 💬 Ask me about about the weather
 - 📫 How to reach me: Discord: lirid1_, or Telegram: https://t.me/ninykita
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i love bananas (Does anyone need this information at all?)
+- ⚡ Fun fact: I love bananas (Does anyone need this information at all?)
