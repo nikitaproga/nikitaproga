@@ -1,4 +1,4 @@
-Hi there 👋
+# Hi there 👋
 
 I'm a novice developer on Github. You can view information about me here:
 
