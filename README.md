@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here are some ideas to get you started:
+Information about me:
 
 - 🔭 I’m currently working on: improving your skills
 - 🌱 I’m currently learning: Python, CSS/Html
